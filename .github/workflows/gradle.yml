@@ -23,3 +23,8 @@ jobs:
 
     - name: Execute Gradle build
       run: bash ./gradlew build
+
+    # Create APK Release
+    - name: Build apk release project (APK)
+      run: bash ./gradlew assemble
+      
