@@ -27,3 +27,9 @@ jobs:
     # Create APK Release
     - name: Build apk release project (APK)
       run: bash ./gradlew assembleRelease
+
+    - name: Upload APK
+      uses: actions/upload-artifact@v1
+      with:
+        name: apk
+        path: app/build/outputs/apk/release/app-release.apk
