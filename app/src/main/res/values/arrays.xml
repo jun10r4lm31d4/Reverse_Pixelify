@@ -1,18 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="xposed_scope">
-        <item>com.google.android.apps.photos</item>
-        <item>com.google.android.apps.turbo</item>
-        <item>com.google.android.apps.turboadapter</item>
-        <item>com.google.android.dialer</item>
-        <item>com.google.android.googlequicksearchbox</item>
-        <item>com.google.android.tts</item>
-        <item>com.google.audio.hearing.visualization.accessibility.scribe</item>
+        <item>cmccwm.mobilemusic</item>
+        <item>cn.kuwo.player</item>
+        <item>com.activision.callofduty.shooter</item>
+        <item>com.amazon.avod.thirdpartyclient</item>
         <item>com.android.chrome</item>
         <item>com.android.vending</item>
         <item>com.breel.wallpapers20</item>
-        <item>com.google.android.as</item>
+        <item>com.disney.disneyplus</item>
+        <item>com.dts.freefiremax</item>
+        <item>com.dts.freefireth</item>
+        <item>com.ea.gp.apexlegendsmobilefps</item>
+        <item>com.ea.gp.fifamobile</item>
+        <item>com.epicgames.fortnite</item>
+        <item>com.epicgames.portal</item>
+        <item>com.gameloft.android.ANMP.GloftA9HM</item>
+        <item>com.garena.game.codm</item>
+        <item>com.google.android.apps.nexuslauncher</item>
+        <item>com.google.android.apps.photos</item>
+        <item>com.google.android.apps.privacy.wildlife</item>
+        <item>com.google.android.apps.turbo</item>
+        <item>com.google.android.apps.turboadapter</item>
+        <item>com.google.android.apps.wallpaper.pixel</item>
+        <item>com.google.android.apps.wallpaper</item>
         <item>com.google.android.as.oss</item>
+        <item>com.google.android.as</item>
+        <item>com.google.android.dialer</item>
         <item>com.google.android.gms</item>
+        <item>com.google.android.googlequicksearchbox</item>
+        <item>com.google.android.inputmethod.latin</item>
+        <item>com.google.android.tts</item>
+        <item>com.google.audio.hearing.visualization.accessibility.scribe</item>
+        <item>com.kugou.android.lite</item>
+        <item>com.kugou.android</item>
+        <item>com.levelinfinite.hotta.gp</item>
+        <item>com.madfingergames.legends</item>
+        <item>com.meizu.media.music</item>
+        <item>com.microsoft.android.smsorganizer</item>
+        <item>com.mobile.legends</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.netease.lztgglobal</item>
+        <item>com.netflix.mediaclient</item>
+        <item>com.nhs.online.nhsonline</item>
+        <item>com.nothing.smartcenter</item>
+        <item>com.pearlabyss.blackdesertm.gl</item>
+        <item>com.pearlabyss.blackdesertm</item>
+        <item>com.pubg.imobile</item>
+        <item>com.pubg.krmobile</item>
+        <item>com.rekoo.pubgm</item>
+        <item>com.riotgames.league.wildrift</item>
+        <item>com.riotgames.league.wildrifttw</item>
+        <item>com.riotgames.league.wildriftvn</item>
+        <item>com.samsung.accessory.berrymgr</item>
+        <item>com.samsung.accessory.fridaymgr</item>
+        <item>com.samsung.accessory.neobeanmgr</item>
+        <item>com.samsung.accessory</item>
+        <item>com.samsung.android.app.watchmanager</item>
+        <item>com.samsung.android.geargplugin</item>
+        <item>com.samsung.android.gearnplugin</item>
+        <item>com.samsung.android.modenplugin</item>
+        <item>com.samsung.android.neatplugin</item>
+        <item>com.samsung.android.waterplugin</item>
+        <item>com.snapchat.android</item>
+        <item>com.supercell.clashofclans</item>
+        <item>com.tencent.ig</item>
+        <item>com.tencent.qqmusic</item>
+        <item>com.tencent.tmgp.kr.codm</item>
+        <item>com.tencent.tmgp.pubgmhd</item>
+        <item>com.tencent.tmgp.sgame</item>
+        <item>com.vng.codmvn</item>
+        <item>com.vng.mlbbvn</item>
+        <item>com.vng.pubgmobile</item>
+        <item>in.startv.hotstar</item>
     </string-array>
 </resources>
