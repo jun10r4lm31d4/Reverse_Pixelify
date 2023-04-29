@@ -105,7 +105,7 @@ class HookEntry : IYukiHookXposedInit {
     }
 
     private fun getAttestationHooksClass(): AttestationHooksClass? {
-        for (clazz in attestationHooksClass) {
+        for (clazz in attestationHooksClasses) {
             try {
                 clazz.className.toClass()
 
