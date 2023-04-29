@@ -105,7 +105,7 @@ class HookEntry : IYukiHookXposedInit {
     }
 
     private fun getAttestationHooksClass(): AttestationHooksClass? {
-        for (clazz in pixelPropUtilClass) {
+        for (clazz in attestationHooksClass) {
             try {
                 clazz.className.toClass()
 
